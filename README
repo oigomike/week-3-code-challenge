@@ -1,0 +1,18 @@
+# Simple Blog App
+
+This is a basic blog project using HTML, CSS, JavaScript, and JSON Server.
+
+## Features
+
+- View blog titles and images
+- Click to view full post details
+- Add a new post
+- Edit a post’s title and content
+- Delete a post
+- All data is saved using API requests
+
+## Setup Instructions
+
+1. Install JSON Server globally  
+```bash
+npm install -g json-server

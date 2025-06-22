@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "heading": "Should We Still Learn jQuery?",
+      "details": " I used it recently and it worked fine."
+    },
+    {
+      "id": 2,
+      "heading": "3 Things I Wish I Knew Before Coding",
+      "details": "1. Console.log is your best friend. 2. Bugs will find you. 3. Google knows everything."
+    },
+    {
+      "id": 3,
+      "heading": "Debugging is an emotion",
+      "details": "Sometimes I feel like I'm winning, then boom — undefined is not a function."
+    }
+  ]
+}

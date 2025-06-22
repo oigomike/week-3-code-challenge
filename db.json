@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "content": "This is my first blog post using JSON Server.",
+      "author": "Mike"
+    },
+    {
+      "id": 2,
+      "title": "Learning JavaScript",
+      "content": "JSON is kinda confusing but fun.",
+      "author": "Kiptoo"
+    },
+    {
+      "id": 3,
+      "title": "Weekend Thoughts",
+      "content": "SCHOOL.",
+      "author": "Shiko"
+    }
+  ]
+}
+
